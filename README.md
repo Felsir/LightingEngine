@@ -5,6 +5,10 @@ Implementation of a 2D deferred lights engine for Monogame. Inspired on the effe
 * MonoLights, the actual implementation of the Deferred engine.
 
 # The example application
+The running sample application should look like this:
+
+![Example screenshot](http://www.felsirworld.net/wp-content/uploads/2017/05/deferredlights01.gif)
+
 Run the application and use the following keys to toggle basic settings:
 
 * **Mouse**: use the mouse to move the light around (both lighttypes). 
